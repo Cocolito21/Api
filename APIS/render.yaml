@@ -1,0 +1,2 @@
+version: 0.1
+buildCommand: npm install && npx prisma migrate dev
